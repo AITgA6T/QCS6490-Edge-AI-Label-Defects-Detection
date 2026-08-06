@@ -40,3 +40,9 @@ Our Edge AI system performs real-time acoustic and visual inference. Using DOA (
 
 https://github.com/user-attachments/assets/01da94ea-e738-4958-aa7f-62bbc8e04c82
 
+## Contact
+If you require any further information, please feel free to contact:
+
+TW: qualcomm.tw@aitgroup.com.tw
+
+CN: qualcomm.cn@aitgroup.com.tw
